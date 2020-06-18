@@ -1,2 +1,2 @@
 # Ds-Algo
-I covered various topics of Ds-Algo in this repository.
+I have covered various topics of Ds-Algo in this repository.
